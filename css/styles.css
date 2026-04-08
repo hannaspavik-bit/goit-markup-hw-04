@@ -178,9 +178,9 @@ a {
   text-align: center;
   border-radius: 0 0 4px 4px;
   box-shadow:
-    0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 2px 1px rgba(46, 47, 66, 0.08);
+    0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .team-text {
   padding: 32px 16px;
@@ -224,6 +224,7 @@ a {
   color: #f4f4fd;
   display: inline-block;
   margin-bottom: 16px;
+  margin-right: 0;
 }
 .footer-text {
   max-width: 264px;
@@ -309,9 +310,9 @@ a {
 
 .portfolio-item:hover {
   box-shadow:
-    0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 2px 1px rgba(46, 47, 66, 0.08);
+    0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .hero {
